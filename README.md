@@ -1,10 +1,11 @@
-<h1>👋 Hi, I’m Okechukwu Chibuike Collins<h1>
-<p style="margin-bottom: 10px;">I am a Web developer who specializes mainly on Frontend Development<p>
+# 👋 Hi, I’m Okechukwu Chibuike Collins
+
+### I am a Web developer who specializes mainly on Frontend Development
 
  - 🔭 I’m currently building with [HelixGade Technologies](http://helixgade.com//)
 
 
-- 👀Tech Stack ...
+## 👀Tech Stack ...
 
   <p>
 <img src="https://toppng.com/uploads/preview/html5-logo-vector-free-download-11574222422da5narngo7.png" style="width: 30px; height: 30px;" alt="HTML5">
@@ -20,17 +21,24 @@
 
   
  🌱 I’m currently learning ...
-  <h5>ThreeJs</h5>
-  <h5>Flutter</h5>    
+- ### ThreeJs
+- ### Flutter  
     
   
- 💞️ View more of my projects on ...
+ 💞️ View more of my **projects** on ...
   <a href="collinsvizionportfolio.netlify.app">Collins Vizion Portfolio</a>
 
  
 
-📫 How to reach me ...
-    <a href="mailto:someone@example.com">Send email</a>
+## 📫 How to reach me ...
+
+  *  <a href="mailto:someone@example.com">Send email</a>
+  *  [LinkedIn](https://linkedin.com/in/chibuike-collins-okechukwu-5609a1249)
+    
+ ## Also visit
+ 
+   - [Code Pen](https://codepen.io/Vizion_Snilloc_jr)
+   - [Blog](http://vizionconcept.hashnode.dev)
 
   
 
