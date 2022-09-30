@@ -23,6 +23,7 @@
  🌱 I’m currently learning ...
 - ### ThreeJs
 - ### Flutter  
+- ### TypeScript
     
   
  💞️ View more of my **projects** on ...
