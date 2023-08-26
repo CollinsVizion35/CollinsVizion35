@@ -2,7 +2,8 @@
 
 ### I am a Web developer who specializes mainly on Frontend Development
 
- - 🔭 I’m currently building with [HelixGade Technologies](http://helixgade.com//)
+ - 🔭 Internship at [HelixGade Technologies](http://helixgade.com//)
+ - 👨🏾‍🔬 I’m currently building with [The Heart Emporium](https://www.theheartemporium.com/)
 
 
 ## 👀Tech Stack ...
