@@ -17,14 +17,13 @@
 <img src="https://icon2.cleanpng.com/20180417/irq/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3cde70706.9853526815239628299463.jpg" style="width: 30px; height: 30px;" alt="Firebase">
 <img src="https://www.nicepng.com/png/detail/400-4004661_deep-analysis-tailwind-logo.png" style="width: 30px; height: 30px;" alt="tailwind">
 <img src="https://www.nicepng.com/png/detail/361-3619393_responsive-web-design-responsive-web-design-logo.png" style="width: 30px; height: 30px;" alt="responsive web design">
+   img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" style="width: 30px; height: 30px;" alt="responsive web design">
   </p>
 
 
   
  🌱 I’m currently learning ...
 - ### ThreeJs
-- ### Flutter  
-- ### TypeScript
     
   
  💞️ View more of my **projects** on ...
