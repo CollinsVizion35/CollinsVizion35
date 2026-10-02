@@ -4,7 +4,7 @@
 
  - 🔭 Internship at [HelixGade Technologies](http://helixgade.com//)
  - 👨🏾‍🔬 Built with [The Heart Emporium](https://www.theheartemporium.com/)
- - 🚧 Currently building with [Judu]
+ - 🚧 Currently building with Judu
 
 
 ## 👀Tech Stack ...
