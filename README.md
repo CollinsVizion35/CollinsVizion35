@@ -3,7 +3,8 @@
 ### I am a Web developer who specializes mainly on Frontend Development
 
  - 🔭 Internship at [HelixGade Technologies](http://helixgade.com//)
- - 👨🏾‍🔬 I’m currently building with [The Heart Emporium](https://www.theheartemporium.com/)
+ - 👨🏾‍🔬 Built with [The Heart Emporium](https://www.theheartemporium.com/)
+ - 🚧 Currently building with [Judu]
 
 
 ## 👀Tech Stack ...
@@ -14,16 +15,14 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width: 30px; height: 30px;" alt="javascript">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" style="width: 30px; height: 30px;" alt="reactJS">
 <img src="https://www.pngitem.com/pimgs/m/206-2069866_transparent-css3-logo-png-jquery-logo-png-png.png" style="width: 30px; height: 30px;" alt="jQuery">
-<img src="https://icon2.cleanpng.com/20180417/irq/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3cde70706.9853526815239628299463.jpg" style="width: 30px; height: 30px;" alt="Firebase">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/firebase.svg" style="width: 30px; height: 30px;" alt="Firebase">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supabase.svg" style="width: 30px; height: 30px;" alt="Supabase">
+<img src="https://cdn.simpleicons.org/threedotjs/000000" style="width: 30px; height: 30px;" alt="Three">
 <img src="https://www.nicepng.com/png/detail/400-4004661_deep-analysis-tailwind-logo.png" style="width: 30px; height: 30px;" alt="tailwind">
 <img src="https://www.nicepng.com/png/detail/361-3619393_responsive-web-design-responsive-web-design-logo.png" style="width: 30px; height: 30px;" alt="responsive web design">
    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" style="width: 30px; height: 30px;" alt="responsive web design">
   </p>
 
-
-  
- 🌱 I’m currently learning ...
-- ### ThreeJs
     
   
  💞️ View more of my **projects** on ...
@@ -33,7 +32,7 @@
 
 ## 📫 How to reach me ...
 
-  *  <a href="mailto:someone@example.com">Send email</a>
+  *  <a href="mailto:vizionconcept35@gmail.com">Send email</a>
   *  [LinkedIn](https://linkedin.com/in/chibuike-collins-okechukwu-5609a1249)
     
  ## Also visit
